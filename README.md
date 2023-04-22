@@ -7,7 +7,7 @@
 <!--START_SECTION:celine-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm a Night 🦉** 
 
@@ -23,7 +23,8 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    26 mins             ██████████████░░░░░░░░░░░   54.61 % 
+Python                   21 mins             ███████████░░░░░░░░░░░░░░   45.39 % 
 ```
 
 
